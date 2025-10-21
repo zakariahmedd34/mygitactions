@@ -6,4 +6,4 @@ def name(name_):
     return name_
 
 
-print(hello_world()+" "+ name("Zakaria"))
+print(hello_world() + " " + name("Zakaria"))
