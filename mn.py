@@ -7,4 +7,3 @@ def name(name_):
 
 
 print(hello_world()+" "+ name("Zakaria"))
-        
